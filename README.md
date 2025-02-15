@@ -1,4 +1,10 @@
-# ABOUT ME
+<div align="center">
+# About me
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/de-de/dotnet/csharp/)
+</div>
 
 Here are some facts about me:
 
@@ -8,14 +14,6 @@ Here are some facts about me:
 :de: - I'm from Germany  
 
 :musical_keyboard: - I play the piano  
-
-
-## WHICH PROGRAMMING LANGUAGES DO I USE?
-
-Language | Experience level
----------|-----------------
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) | Advanced
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/de-de/dotnet/csharp/) | Basic
 
 
 ## WHICH SOFTWARE DO I USE?
