@@ -1,25 +1,29 @@
 <div align="center">
-<h1>About me</h1>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+  ![Banner](assets/banner.png)
+
+  ---
+
+  [![YouTube](https://img.shields.io/badge/YouTube-black?logo=YouTube&logoColor=white)](https://www.youtube.com/@niiitrooo)
+  [![Reddit](https://img.shields.io/badge/Reddit-black?logo=reddit&logoColor=white)](https://www.reddit.com/user/nitro_ish/)
+  [![Steam](https://img.shields.io/badge/Steam-black?logo=steam&logoColor=white)](https://steamcommunity.com/id/N1tro4fun/)
+  [![osu!](https://img.shields.io/badge/osu!-black?logo=osu&logoColor=white)](https://osu.ppy.sh/users/24638157)
+
+## Programming languages
+
+  [![C#](https://custom-icon-badges.demolab.com/badge/C%23-black.svg?logo=cshrp&logoColor=white)](https://dotnet.microsoft.com/en-us/)
+  [![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=white)](https://python.org/)
+
+## Software
+
+  [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-black.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com/)
+  [![PyCharm](https://img.shields.io/badge/PyCharm-black?logo=pycharm&logoColor=white)](https://code.visualstudio.com/)
+  [![Notepad++](https://img.shields.io/badge/Notepad++-black?&logo=notepad%2b%2b&logoColor=white)](https://notepad-plus-plus.org/)
+  [![Inkscape](https://img.shields.io/badge/Inkscape-black?logo=inkscape&logoColor=white)](https://inkscape.org/)
+
+### Operating Systems
+
+  [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-black?logo=windows11&logoColor=white)](https://microsoft.com/windows)
+  [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-black?logo=arch-linux&logoColor=white)](https://archlinux.org/)
+
 </div>
-
-Here are some facts about me:
-
-
-## FACTS ABOUT ME
-
-:de: - I'm from Germany  
-
-:musical_keyboard: - I play the piano  
-
-
-## WHICH SOFTWARE DO I USE?
-
-Name | Purpose
----|--------
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) | Lightweight code editor for all sorts of programming
-[![JetBrains PyCharm Community Edition](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/) | My favourite IDE for Python
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/) | Coding in C#
-[![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)](https://www.gimp.org/) | Image editing
-[![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)](https://inkscape.org/) | Creating logos
