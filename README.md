@@ -18,7 +18,6 @@
 
   [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-black.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com/)
   [![PyCharm](https://img.shields.io/badge/PyCharm-black?logo=pycharm&logoColor=white)](https://code.visualstudio.com/)
-  [![Notepad++](https://img.shields.io/badge/Notepad++-black?&logo=notepad%2b%2b&logoColor=white)](https://notepad-plus-plus.org/)
   [![Inkscape](https://img.shields.io/badge/Inkscape-black?logo=inkscape&logoColor=white)](https://inkscape.org/)
 
 ### Operating Systems
